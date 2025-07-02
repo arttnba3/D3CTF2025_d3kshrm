@@ -4,7 +4,7 @@ You know what? Sharing is always a good moral quality. That's the reason why I'm
 
 > Copyright(c) 2025 <ディーキューブ・シーティーエフ カーネル Pwn 製作委員会>
 >
-> Author: arttnba3 @ L-team x Ele3tronic x D^3CTF
+> Author: arttnba3 @ L-team x El3ctronic x D^3CTF
 
 ## 0x00. Introduction
 
